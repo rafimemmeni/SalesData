@@ -1,4 +1,3 @@
-
 {
   "Category": [
     {
@@ -8,7 +7,7 @@
         {
           "id": "100",
           "itemName": "Meat Pizza",
-          "price": "3.000",
+          "price": "3.000"
         },
         {
           "id": "101",
